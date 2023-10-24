@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1693933438 source:c:\users\berna\onedrive\documentos\bernardo\ufrgs\semestre 2\estrutura de dados\benchmark\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"avl.h"
+
+1693933480 c:\users\berna\onedrive\documentos\bernardo\ufrgs\semestre 2\estrutura de dados\benchmark\avl.h
+
+1694206404 source:c:\users\berna\onedrive\documentos\bernardo\ufrgs\semestre 2\estrutura de dados\benchmark\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"abp.h"
+
+1694206370 source:c:\users\berna\onedrive\documentos\bernardo\ufrgs\semestre 2\estrutura de dados\benchmark\abp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"abp.h"
+
+1694206118 c:\users\berna\onedrive\documentos\bernardo\ufrgs\semestre 2\estrutura de dados\benchmark\abp.h
+
+1694206370 source:c:\users\rickc\onedrive\Área de trabalho\estrutura de dados\benchmark\abp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"abp.h"
+
+1694206118 c:\users\rickc\onedrive\Área de trabalho\estrutura de dados\benchmark\abp.h
+
+1694206404 source:c:\users\rickc\onedrive\Área de trabalho\estrutura de dados\benchmark\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"abp.h"
+

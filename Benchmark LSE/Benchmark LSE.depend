@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1694229341 source:c:\users\berna\onedrive\documentos\bernardo\ufrgs\semestre 2\estrutura de dados\benchmark lse\lse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"lse.h"
+
+1694229486 c:\users\berna\onedrive\documentos\bernardo\ufrgs\semestre 2\estrutura de dados\benchmark lse\lse.h
+
+1694229313 source:c:\users\berna\onedrive\documentos\bernardo\ufrgs\semestre 2\estrutura de dados\benchmark lse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"lse.h"
+
+1694230501 source:c:\users\rickc\onedrive\Área de trabalho\estrutura de dados\benchmark lse\lse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"lse.h"
+
+1694229486 c:\users\rickc\onedrive\Área de trabalho\estrutura de dados\benchmark lse\lse.h
+
+1694229313 source:c:\users\rickc\onedrive\Área de trabalho\estrutura de dados\benchmark lse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"lse.h"
+
